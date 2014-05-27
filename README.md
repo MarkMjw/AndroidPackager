@@ -1,8 +1,6 @@
 AndroidPackager
 ===============
 
-An apk packager by ant.
-
 An android apk packager by ant.
 
 *Note：This app developed by Netbeans*
